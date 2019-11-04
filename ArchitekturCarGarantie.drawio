@@ -1,9 +1,12 @@
-<mxfile host="www.draw.io" modified="2019-11-04T07:51:33.895Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.1 Safari/605.1.15" etag="ZvVkciewvba9UNsSjUHS" version="12.1.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-04T08:24:29.041Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.1 Safari/605.1.15" etag="xNzOjRDB9XllSLHYX6U2" version="12.1.9" type="github" pages="1">
   <diagram id="YAyYNESXQmjCN3pU5pgw" name="Page-1">
-    <mxGraphModel dx="577" dy="1614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="783" dy="1837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
+        <mxCell id="A_urT-kz64JYIyCZkuHm-15" value="Kerndomäne" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-170" width="730" height="710" as="geometry"/>
+        </mxCell>
         <mxCell id="Ii9LpbA_kSQu4Q5Xc9ug-2" value="Attribut Verwaltung" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="40" y="30" width="130" height="400" as="geometry"/>
         </mxCell>
@@ -59,7 +62,7 @@
           <mxGeometry x="40" y="440" width="690" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="A_urT-kz64JYIyCZkuHm-2" value="Schaden bearbeiten" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="600" y="29.99999999999998" width="130" height="400" as="geometry"/>
+          <mxGeometry x="600" y="14.999999999999979" width="130" height="400" as="geometry"/>
         </mxCell>
         <mxCell id="A_urT-kz64JYIyCZkuHm-4" value="" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="65" y="320" width="70" height="50" as="geometry"/>
