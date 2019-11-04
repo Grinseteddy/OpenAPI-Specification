@@ -1,1 +1,61 @@
-<mxfile host="www.draw.io" modified="2019-11-04T07:11:26.560Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.1 Safari/605.1.15" etag="EKTVwLB9OMXRk4HsPLzA" version="12.1.9" type="github" pages="1"><diagram id="YAyYNESXQmjCN3pU5pgw" name="Page-1">3Zldb5swFIZ/DZeJ+AqByzRtt0md1Cr7upscMGDF2MiYJu2vnz0MCbG7tWqbUHIRmdcG4uc9Pj4Qy1sWu08MlPlXmkBsuXays7xLy3W9IBTfUnhoBMcPvUbJGEqUthdW6BEq0VZqjRJY9QZySjFHZV+MKSEw5j0NMEa3/WEpxf27liCDmrCKAdbVnyjheaOG7nyvf4Yoy9s7O0HU9BSgHaxmUuUgodsDybuyvCWjlDetYreEWMJruTTnXT/R2/0wBgl/zglfUHRTrhe/N6u72r+b/YqjOpu4zVXuAa7VhBecM7SuuVB/QLYFmNckUzPgDy0WRmuSQHll2/IutjnicFWCWPZuRSAILecFFkeOaN5DxpFAusAoI0LjVA5QdxZ9cPfklJwOlIgwSAvI2YMYok7wFVoVXJ463O6NclotPzDJt5UIVHBk3ZX3/ERDIXwBzkDD+Tpyb8AomB9Bcg2UXAOl4L0gOY4edISAvIATyw2wuP3FmolWJlsMxTnHiCCokRQLqpRNuaYhE2NTSvhK9Ut6leCKSPZNhtulI3FzsG5Xsa+Ou9Xr+I1wSyvEEZWBimHK39yQWd+PQLcjMrgxezc39BTwvUiBYc2Pg7djiP/TAvc04LcMoqrirN7wmo2Ve3hu7qHGfTqdjpR2tzWejXak0b4RQS6LiWoDOMA005P9hpIUZTVDUEx7oDVHF8ct6WgaHX7Cc9cgbX4zkTdssJ0Z41gHrt23Z37mdeDqxc6/3CjBBvKxeuEYCvTTmqHXOlcYFmI6gJnMYDQRW/Jo7YjObYdeCXVrQ7DPGCgK3RWISGotPetimQ93l+iesga7S/gvy0udHeNYC54/sG1Cf3OwqNMqzp94/zIS7OffEeb6joDII8RymgwYalSwFq5gBGUKiq4Hm4D8YOgJSH8cOyI/jpD3w2FlGk9/PLikhYzmhU8gqSC7RyJYXfvIDfujBL49tQ8/Xo/+xJBwZrOT8tcfCMz8DaWQ/SFqn/84YKg6feekDuhPAc934CO8ojjaZCfOTEfe5aFXIheH+7+w/vYd/BHoXf0B</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-11-04T07:13:40.729Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.1 Safari/605.1.15" etag="dsVOy68555EykZhzfBwU" version="12.1.9" type="github" pages="1">
+  <diagram id="YAyYNESXQmjCN3pU5pgw" name="Page-1">
+    <mxGraphModel dx="854" dy="1897" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="Ii9LpbA_kSQu4Q5Xc9ug-2" value="Attribut Verwaltung" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="40" y="30" width="130" height="400" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ii9LpbA_kSQu4Q5Xc9ug-11" value="Annahme-&lt;br&gt;richtlinie" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="50" y="60" width="90" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ii9LpbA_kSQu4Q5Xc9ug-12" value="Umfang" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="50" y="120" width="90" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ii9LpbA_kSQu4Q5Xc9ug-13" value="Preisstruktur" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="50" y="180" width="90" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ii9LpbA_kSQu4Q5Xc9ug-18" value="..." style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="240" width="90" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ii9LpbA_kSQu4Q5Xc9ug-19" value="Leistungskatalog&lt;br&gt;konfigurieren" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="180" y="29.99999999999998" width="130" height="400" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ii9LpbA_kSQu4Q5Xc9ug-20" value="Leistungs-&lt;br&gt;katalog" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="200" y="70" width="90" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ii9LpbA_kSQu4Q5Xc9ug-21" value="Leistungs-&lt;br&gt;paket" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="200" y="130" width="90" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ii9LpbA_kSQu4Q5Xc9ug-22" value="Elementar-&lt;br&gt;produkt" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="200" y="190" width="90" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ii9LpbA_kSQu4Q5Xc9ug-23" value="Leistungsprogramm&lt;br&gt;einführen" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="320" y="29.99999999999998" width="130" height="400" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ii9LpbA_kSQu4Q5Xc9ug-24" value="Leistungs-&lt;br&gt;programm" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="340" y="70" width="90" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ii9LpbA_kSQu4Q5Xc9ug-26" value="Aufschaltung" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="340" y="130" width="90" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ii9LpbA_kSQu4Q5Xc9ug-27" value="Einzelvertrag&lt;br&gt;abschließen" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="460" y="29.99999999999998" width="130" height="400" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ii9LpbA_kSQu4Q5Xc9ug-28" value="Einzelvertrag" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="480" y="70" width="90" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ii9LpbA_kSQu4Q5Xc9ug-30" value="Domänenservice Einzelvertrag abschließen" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="40.00000000000003" y="-30" width="550" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ii9LpbA_kSQu4Q5Xc9ug-31" value="Domänenservice Leistungsprogramm einführen" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="40.00000000000003" y="-90" width="410" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ii9LpbA_kSQu4Q5Xc9ug-32" value="Domänenservice Leistungsprogramm konfigurieren" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="40" y="-150" width="270" height="50" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
